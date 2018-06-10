@@ -1,0 +1,41 @@
+body {
+  max-width: 800px;
+}
+
+.logo img {
+  width: 8rem;
+}
+
+.todos {
+  margin-bottom: 1rem;
+}
+
+.todo, .new-todo {
+  display: flex;
+  margin: 0.1rem;
+}
+
+.todo, .new-todo input {
+  font-size: 0.9rem;
+}
+
+.todo:before {
+  content: '-';
+  padding-right: 1rem;
+}
+
+.new-todo input[type="submit"] {
+  margin-left: 1rem;
+  flex: 1;
+}
+
+.new-todo input {
+  border: 2px solid #999;
+  width: 100%;
+}
+
+footer {
+  border-top: 1px solid #999;
+  padding-top: 1rem;
+  margin-top: 1rem;
+}

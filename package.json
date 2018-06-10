@@ -1,0 +1,13 @@
+{
+  "name": "pwa-milkapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "MilkApp",
+    "short_name": "MilkApp",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#fff",
+    "description": "Did you buy the milk?",
+    "icons": [
+      {
+        "src": "milkicon192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "milkicon512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+}
